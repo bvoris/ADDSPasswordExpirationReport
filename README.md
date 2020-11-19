@@ -1,6 +1,5 @@
 # ADDSPasswordExpirationReport
-Active Directory Password Expiration in 10 days report
-
+Active Directory Password Expiration in 10 days report<BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/ADDSPasswordExpirationReport">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/ADDSPasswordExpirationReport">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/ADDSPasswordExpirationReport/total">
